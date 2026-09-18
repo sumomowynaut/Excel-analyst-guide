@@ -18,3 +18,7 @@ desktop.ini
 # 备份与临时文件
 *.bak
 *.tmp
+
+# 本地备份（不上传）
+*.bundle
+Excel-analyst-guide_*.zip
