@@ -1,0 +1,20 @@
+# Excel 打开时生成的临时锁文件
+~$*.xlsx
+~$*.xls
+~$*.xlsm
+~$*.xlsb
+
+# 操作系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器 / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 备份与临时文件
+*.bak
+*.tmp

@@ -103,9 +103,22 @@
 
 - Mac 用户不支持 Power Pivot（第 9 章），请用 Windows 版学习
 
+## 已知不足
+
+- **纯文字版，暂无操作截图 / GIF** —— Power Query、Power Pivot 这类界面操作密集的章节，读起来会比看截图费力
+- v1.0 是轻量版，不讲 Power Query / Power Pivot（那部分在 v2.0 第 7、8 章）
+- 只覆盖 Excel 桌面版路径，未给出 WPS / 飞书表格的替代做法
+
+## 参与改进
+
+发现参考答案对不上、表述有误，或想补充截图 —— 请看 [CONTRIBUTING.md](CONTRIBUTING.md)；
+改动记录见 [CHANGELOG.md](CHANGELOG.md)。
+
 ## 许可
 
 文字内容采用 **[CC BY-NC-SA 4.0](LICENSE.md)**（署名 - 非商业性使用 - 相同方式共享）：
 你可以自由复制、修改、分发本教程，但需署名、不得用于商业目的，且衍生作品采用相同协议。
 
 配套练习数据（`practice-data.xlsx`）同样适用。
+
+> 🟡 GitHub 侧栏显示的是 `Other` 而不是 `CC BY-NC-SA 4.0` —— GitHub 的许可证自动识别库不含 CC 系列协议，属识别能力问题，不是漏填。以 [LICENSE.md](LICENSE.md) 为准。
